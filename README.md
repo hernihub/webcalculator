@@ -1,4 +1,4 @@
-# webcalculator
+# Web Calculator
 
 This is the Web Calculator REST API that exposes the seven most used mathematical operations as REST web services, through the use of Spring Boot libraries and configurations.
 The necessary conditions to run this applications are as follows:
