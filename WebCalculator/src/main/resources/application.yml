@@ -1,0 +1,9 @@
+logging: 
+  level: 
+    org: 
+      springframework:  
+        web: ERROR
+    au: 
+      herni: 
+        calculator: INFO
+  file: webcalculator.log
